@@ -1,0 +1,7 @@
+#include<iostram>
+using namespace std;
+int main()
+{
+cout<<"this is my first program in git";
+return 0;
+}
